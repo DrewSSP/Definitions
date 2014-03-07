@@ -1,0 +1,7 @@
+Each update is represented by an incrementation on the version name of the extension. The naming convention goes as follows:
+
+V[Major_Version_of_Extension].[Version_of_Code].[Version_of_Cosmetic_Look]
+
+Major Version of Extension - Goes up by 1 is there is a major change to the functionality of the extension
+Version of Code - Goes up by 1 if there is a minor change within the code of the extension (e.g. bug fixes, etc...)
+Vserions of Cosmetic Look - Goes up by 1 if there is a change in the cosmetic look of the extension or a change in the product's promotional elements on the Chrome Web Store
